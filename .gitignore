@@ -6,6 +6,11 @@ yarn-debug.log*
 yarn-error.log*
 
 
+/node_modules
+/.pnp
+.pnp.js
+package-lock.json
+
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
